@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **edrianangeles85@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n7q48ZP2pIqDFpCy4MDXUZKgxBn1Na0M/view?usp=drive_link](https://drive.google.com/file/d/1n7q48ZP2pIqDFpCy4MDXUZKgxBn1Na0M/view?usp=drive_link)
+- 📄 Know about my experiences [https://edrian-angeles.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
