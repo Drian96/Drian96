@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **edrianangeles85@gmail.com**
 
-- 📄 Know about my experiences [https://edrian-angeles.vercel.app/)
+- 📄 Know about my experiences https://edrian-angeles.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
